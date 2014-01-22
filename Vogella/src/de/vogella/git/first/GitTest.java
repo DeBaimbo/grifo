@@ -10,4 +10,8 @@ class BambiBoh{
 	public static String msg(){
 		return "ceppe negre!";
 	}
+	
+	public static int add(int a, int b){
+		return a+b;
+	}
 }
