@@ -5,3 +5,9 @@ public class GitTest {
 		System.out.println("Git is fun");
 	}
 }
+
+class BambiBoh{
+	public static String msg(){
+		return "ceppe negre!";
+	}
+}
